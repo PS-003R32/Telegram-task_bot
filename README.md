@@ -1,6 +1,6 @@
 # Telegram-task_bot
 How to create your own TELEGRAM bot.
-This repo will guide you to create a task bot that has commands that can be used in your daily requirements. ;)
+This repo will guide you to create a task bot that has commands that can be used for your daily requirements. ;)
 
 This is a complete guide to create a Telegram bot with the given functionalities using Python and the pyTelegramBotAPI library, as it’s widely used, beginner-friendly, and well-suited for integrating with web searches, notifications, and QR code generation. The bot will have distinct commands for each function:
 
